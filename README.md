@@ -1,4 +1,5 @@
 # ESG Value Mining
+<b>[ESG_VM]</b>
 <table>
   <tr>
     <td><img src="https://github.com/Moriblo/ESG_VM_Structure/blob/main/images/OWL_0.jpg" alt="ESG" width="300"/></td>
