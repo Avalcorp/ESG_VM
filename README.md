@@ -1,5 +1,5 @@
-# ESG Value Mining
-🚧<b>[ESG_VM]</b>
+# 🚧ESG Value Mining
+<b>[ESG_VM]</b>
 <table>
   <tr>
     <td><img src="OWL_0.jpg" alt="ESG" width="300"/></td>
