@@ -7,7 +7,7 @@
       <b>ESG Value Mining [ESG_VM]</b><br><br><br>
       The ambitious objective of creating an ESG virtuous cycle with: needs, actions and results.
     </td>
-    <td><img src="https://raw.githubusercontent.com/Moriblo/ESG_VM/gh-pages/images/Virtuous%20Cycle%20(1).png" alt="Virtuous Cycle" width="300"/></td>
+    <td><img src="https://github.com/Moriblo/ESG_VM/blob/cca97bd7f80bb5afbffab4eb16eba9cde4882b09/Images/Virtuous%20Cycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
 
