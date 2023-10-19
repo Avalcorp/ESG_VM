@@ -2,7 +2,7 @@
 <b>[ESG_VM]</b>
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Moriblo/ESG_VM/gh-pages/images/OWL_0.jpg" alt="ESG" width="300"/></td>
+    <td><img src="https://github.com/Moriblo/ESG_VM/blob/e68451818007d6022f1c7caf8b7f4084b6dfd46b/Images/OWL_0%20(1).jpg" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining [ESG_VM]</b><br><br><br>
       The ambitious objective of creating an ESG virtuous cycle with: needs, actions and results.
