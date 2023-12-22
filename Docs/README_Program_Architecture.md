@@ -25,7 +25,7 @@
 
 |DRAWING|REPOSITORIES|
 |:---:|:---:|
-|<img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/Architecture.svg" alt="Architecture" width="700"/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>🎣  [Colectors](https://moriblo.github.io/ESG_VM/)<br><br>🗄️  [Datasets](https://moriblo.github.io/ESG_VM/)<br><br>👮  [Orchestrators](https://moriblo.github.io/ESG_VM/)|
+|<img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/Architecture.svg" alt="Architecture" width="700"/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>🎣  [Colectors]()<br><br>🗄️  [Datasets]()<br><br>👮  [Orchestrators]()|
 
 ---
 
