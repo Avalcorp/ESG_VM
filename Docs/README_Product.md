@@ -3,7 +3,7 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src="OWL_0.jpg" alt="OWL" width="200"/></td>
+    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/OWL_0.jpg" alt="OWL" width="200"/></td>
     <td>
       <b>ESG Value Mining Product [ESG_VM_PRD]</b><br><br>
       Minimum Viable Product (MVP) proposal as a final task for Post Graduation in Software Engineering in PUC University.<br>
