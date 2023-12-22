@@ -30,7 +30,7 @@ Some of the references used:<br>
 # Development Flow
 <br>
 <p align="center">
-  <img src="Development_Environment_Flow.svg" alt="Architecture">
+  <img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/Development_Environment_Flow.svg" alt="Architecture">
 </p>
 <br>
 
@@ -38,5 +38,5 @@ Some of the references used:<br>
 # Development Issues Standardization
 <br>
 <p align="center">
-  <img src="Issues%20Template.png" alt="Architecture">
+  <img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/Issues%20Template.png" alt="Architecture">
 </p>
