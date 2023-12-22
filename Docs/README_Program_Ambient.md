@@ -16,7 +16,7 @@
 
 # 🚧
 
-## 🥋 [Register Form](https://docs.google.com/forms/d/10KajaLsiUO6kJ9iFtArz7EhQ0E-LL9U-4u6R65s_5cs/prefill)
+# 🥋 [Register Form](https://docs.google.com/forms/d/10KajaLsiUO6kJ9iFtArz7EhQ0E-LL9U-4u6R65s_5cs/prefill)
 ---
 # Development Guidences
 
