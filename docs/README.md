@@ -2,7 +2,7 @@
 <b>[ESG_VM]</b>
 <table>
   <tr>
-    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/OWL_0.jpg" alt="ESG" width="300"/></td>
+    <td><img src="/gh-pages/docs/Img/OWL_0.jpg" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining [ESG_VM]</b><br><br><br>
       The ambitious objective of creating an ESG virtuous cycle with: needs, actions and results.
