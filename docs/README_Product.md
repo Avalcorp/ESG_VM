@@ -1,9 +1,9 @@
-# <a href="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/README.md"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f519.png" width="20" height="20"></a> ESG Value Mining Product
+# <a href="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/README.md"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f519.png" width="20" height="20"></a> ESG Value Mining Product
 [ESG_VM] - <b>[ESG_VM_PRD]</b>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/OWL_0.jpg" alt="OWL" width="200"/></td>
+    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/OWL_0.jpg" alt="OWL" width="200"/></td>
     <td>
       <b>ESG Value Mining Product [ESG_VM_PRD]</b><br><br>
       Minimum Viable Product (MVP) proposal as a final task for Post Graduation in Software Engineering in PUC University.<br>
