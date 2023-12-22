@@ -2,12 +2,12 @@
 [ESG_VM] - [ESG_VM_PGM] - <b>[ESG_VM_PGM_Ambient]</b>
 <table>
   <tr>
-    <td><img src="OWL_0.jpg" alt="ESG" width="300"/></td>
+    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/OWL_0.jpg" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining Program [ESG_VM_PGM_Ambient]</b><br><br>
       The ambient has the main objective to define the development standards.<br>
     </td>
-    <td><img src="Virtuous%20Cycle.png" alt="Virtuous Cycle" width="300"/></td>
+    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/Docs/Img/Virtuous%20Cycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
 
