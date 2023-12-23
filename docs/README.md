@@ -2,7 +2,7 @@
 <b>[ESG_VM]</b>
 <table>
   <tr>
-    <td><img src="Img/OWL_0.jpg" alt="ESG" width="300"/></td>
+    <td><img src="https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining [ESG_VM]</b><br><br><br>
       The ambitious objective of creating an ESG virtuous cycle with: needs, actions and results.
