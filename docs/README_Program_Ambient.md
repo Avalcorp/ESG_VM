@@ -2,12 +2,12 @@
 [ESG_VM] - [ESG_VM_PGM] - <b>[ESG_VM_PGM_Ambient]</b>
 <table>
   <tr>
-    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/OWL_0.jpg" alt="ESG" width="300"/></td>
+    <td><img src="OWL.jpg" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining Program [ESG_VM_PGM_Ambient]</b><br><br>
       The ambient has the main objective to define the development standards.<br>
     </td>
-    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/Virtuous%20Cycle.png" alt="Virtuous Cycle" width="300"/></td>
+    <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
 
@@ -30,7 +30,7 @@ Some of the references used:<br>
 # Development Flow
 <br>
 <p align="center">
-  <img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/Development_Environment_Flow.svg" alt="Architecture">
+  <img src="Development_Environment_Flow.svg" alt="Architecture">
 </p>
 <br>
 
@@ -38,5 +38,5 @@ Some of the references used:<br>
 # Development Issues Standardization
 <br>
 <p align="center">
-  <img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/Issues%20Template.png" alt="Architecture">
+  <img src="IssuesTemplate.png" alt="Architecture">
 </p>
