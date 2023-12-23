@@ -30,7 +30,7 @@ Some of the references used:<br>
 # Development Flow
 <br>
 <p align="center">
-  <img src="Development_Environment_Flow.svg" alt="Architecture">
+  <img src="DevelopmentEnvironmentFlow.svg" alt="Architecture">
 </p>
 <br>
 
