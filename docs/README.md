@@ -2,7 +2,7 @@
 <b>[ESG_VM]</b>
 <table>
   <tr>
-    <td><img src="https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg" alt="ESG" width="300"/></td>
+    <td><img src="" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining [ESG_VM]</b><br><br><br>
       The ambitious objective of creating an ESG virtuous cycle with: needs, actions and results.
@@ -10,6 +10,8 @@
     <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/Virtuous%20Cycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
+
+https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁[Product Details](https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/README_Product.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌳[Program Structure](https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/README_Program.md)<br><br>
