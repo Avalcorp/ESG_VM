@@ -2,19 +2,19 @@
 [ESG_VM] - [ESG_VM_PGM] - <b>[ESG_VM_PGM_Architecture]</b>
 <table>
   <tr>
-    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/OWL_0.jpg" alt="ESG" width="300"/></td>
+    <td><img src="OWL.jpg" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining Program [ESG_VM_PGM_Architecture]</b><br><br>
       The architecture defines how the program will be divided. The parts of the program are: datasets, colectors and orchestrators. The name given for this set of projects is: "The Nest".<br>
     </td>
-    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/Virtuous%20Cycle.png" alt="Virtuous Cycle" width="300"/></td>
+    <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
 
 ---
 <table>
   <tr>
-    <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/Img/%C3%8Dcone_Ninho.jpg" alt="ESG" width="300"/></td>
+    <td><img src="Ninho.jpg" alt="ESG" width="300"/></td>
     <td>
       <b>The Nest [TN]</b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
