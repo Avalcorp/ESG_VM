@@ -11,7 +11,13 @@
   </tr>
 </table>
 
-<div style="text-align: center;">
+<div>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td style="width:500px; height:50px;">🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Starting</a></td>
