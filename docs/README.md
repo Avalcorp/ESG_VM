@@ -13,14 +13,14 @@
 
 <div>
   <pre>
+    <table>
+      <tr>
+        <td style="width:500px; height:50px;">🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Starting</a></td>
+        <td style="width:100px; height:50px;">📓 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Product Details</a></td>
+        <td style="width:100px; height:50px;">🌳 <a href="https://avalcorp.github.io/ESG_VM/Program.html">Program Structure</a></td>
+      </tr>
+    </table>
   </pre>
-  <table>
-    <tr>
-      <td style="width:500px; height:50px;">🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Starting</a></td>
-      <td style="width:100px; height:50px;">📓 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Product Details</a></td>
-      <td style="width:100px; height:50px;">🌳 <a href="https://avalcorp.github.io/ESG_VM/Program.html">Program Structure</a></td>
-    </tr>
-  </table>
 </div>
 
 
