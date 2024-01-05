@@ -1,5 +1,5 @@
-# <a href="https://avalcorp.github.io/ESG_VM/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f519.png" width="20" height="20"></a> ESG Value Mining Program
-[ESG_VM] - <b>[ESG_VM_PGM]</b>
+# <a href="https://avalcorp.github.io/ESG_VM/"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f519.png" width="20" height="20"></a> ESG Value Mining Starting
+[ESG_VM] - <b>[ESG_VM_STA]</b>
 <table>
   <tr>
     <td><img src="OWL.jpg" alt="ESG" width="300"/></td>
