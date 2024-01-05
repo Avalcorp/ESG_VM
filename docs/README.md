@@ -14,7 +14,7 @@
 <div style="text-align: center;">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
-      <td style="width:100px; height:50px;">🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Starting</a></td>
+      <td style="width:200px; height:50px;">🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Starting</a></td>
       <td style="width:100px; height:50px;">📓 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Product Details</a></td>
       <td style="width:100px; height:50px;">🌳 <a href="https://avalcorp.github.io/ESG_VM/Program.html">Program Structure</a></td>
     </tr>
