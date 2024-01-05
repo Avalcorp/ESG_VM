@@ -8,9 +8,9 @@
       This is the starting point to understand this ambitious and dreamer initiative. You can choose your own way but bellow is a recommendation to
       try your journey easier.<br>
     </td>
-    <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="3000"/></td>
+    <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
 <div>
-  <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/GeneralDiagram.jpg" alt="GeneralDiagram" width="300"/></td>
+  <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/GeneralDiagram.jpg" alt="GeneralDiagram" width="3000"/></td>
 </div>
