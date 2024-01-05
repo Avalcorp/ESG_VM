@@ -13,10 +13,7 @@
 
 <div>
   <pre>
-  <pre>
-  <pre>
-  <pre>
-  <pre>
+  </pre>
   <table>
     <tr>
       <td style="width:500px; height:50px;">🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Starting</a></td>
