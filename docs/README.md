@@ -13,8 +13,8 @@
   <div>
     <table>
         <tr>
-          <td>🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html"><pre><pre><pre>Starting</a></td>
-          <td style="width:100px; height:50px;">📓 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Product Details</a></td>
+          <td>🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">&nbsp;&nbsp;&nbsp;&nbsp;Starting;&nbsp;&nbsp;&nbsp;&nbsp</a></td>
+          <td style="width:100px; height:50px;">📓 <a href="https://avalcorp.github.io/ESG_VM/Product.html">&nbsp;Product Details;&nbsp</a></td>
           <td style="width:100px; height:50px;">🌳 <a href="https://avalcorp.github.io/ESG_VM/Program.html">Program Structure</a></td>
         </tr>
     </table>
