@@ -12,5 +12,5 @@
   </tr>
 </table>
 <div>
-  <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/GeneralDiagram.html" alt="GeneralDiagram" width="300"/></td>
+  <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/GeneralDiagram.jpg" alt="GeneralDiagram" width="300"/></td>
 </div>
