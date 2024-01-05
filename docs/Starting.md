@@ -5,7 +5,7 @@
     <td><img src="OWL.jpg" alt="ESG" width="300"/></td>
     <td>
       <b>ESG Value Mining Starting [ESG_VM_STA]</b><br><br>
-      This is the starting point to understand this ambitious and dreamer initiative. You can choose your own way but bellow is a recommendation to\
+      This is the starting point to understand this ambitious and dreamer initiative. You can choose your own way but bellow is a recommendation to
       try your journey easier.<br>
     </td>
     <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
