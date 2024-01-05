@@ -8,7 +8,7 @@
       This is the starting point to understand this ambitious and dreamer initiative. You can choose your own way but bellow is a recommendation to
       try your journey easier.<br>
     </td>
-    <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
+    <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="3000"/></td>
   </tr>
 </table>
 <div>
