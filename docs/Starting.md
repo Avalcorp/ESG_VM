@@ -11,3 +11,6 @@
     <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
+<div>
+  <td><img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/GeneralDiagram.html" alt="GeneralDiagram" width="300"/></td>
+</div>
