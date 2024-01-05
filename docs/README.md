@@ -10,6 +10,12 @@
     <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁[Product Details](https://avalcorp.github.io/ESG_VM/Product.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌳[Program Structure](https://avalcorp.github.io/ESG_VM/Program.html)<br><br>
+  <div align="center">
+    <table>
+        <tr>
+          <td width="500px" align="center">🏁 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Starting</a></td>
+          <td width="500px" align="center">📓 <a href="https://avalcorp.github.io/ESG_VM/Product.html">Product Details</a></td>
+          <td width="500px" align="center">🌳 <a href="https://avalcorp.github.io/ESG_VM/Program.html">Program Structure</a></td>
+        </tr>
+    </table>
+  </div>
