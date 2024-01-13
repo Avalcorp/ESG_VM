@@ -1,0 +1,279 @@
+name: Functional Requirement
+description: Requirement Detailing
+title: "[Func. Requirement]: "
+labels: ["FReq"]
+projects: ["ESG Value Mining"]
+assignees:
+  - 
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+          <table>
+            <tr>
+              <td><img src="https://github.com/Avalcorp/standards/blob/main/Img/FReq_Flow.jpg?raw=true" alt="FReq_Flow" width="2000" height="500"/></td>
+            </tr>
+          </table>
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        # Issue Opening Setup
+  
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+  - type: dropdown
+    id: criticality
+    attributes:
+      label: Criticality_
+      description: What is the level of criticality for this issue ?
+      multiple: false
+      options:
+        - Critical
+        - Major
+        - Minor
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill_
+      description: Which kind of skill would be initially necessary ?
+      multiple: false
+      options:
+        - Arch&AI - Authentication Process
+        - Arch&AI - Blockchain
+        - Arch&AI - Brokers
+        - Arch&AI - Cybersecurity
+        - Arch&AI - Deep Learning
+        - Arch&AI - Machine Learning
+        - Arch&AI - Neural Net
+        - Arch&AI - Payment Token
+        - Arch&AI - TOGAF
+        - Arch&AI - Web Scraping
+        - DB - BI
+        - DB - ETL
+        - DB - Hadoop
+        - DB - OLAP
+        - DB - OLTP
+        - DB - Spark
+        - LP - C#
+        - LP - CSS
+        - LP - HTML
+        - LP - Java
+        - LP - JS
+        - LP - Kotlin
+        - LP - Lua
+        - LP - Perl
+        - LP - PHP
+        - LP - Python
+        - LP - R
+        - LP - Ruby
+        - LP - SQL
+        - LP - VBA
+        - OS - Android
+        - OS - Git
+        - OS - iOS
+        - OS - Linux
+        - PMgmt - Change&Doc Mgmt
+        - PMgmt - Kanban
+        - PMgmt - PMP
+        - PMgmt - PRINCE
+        - PMgmt - PRiSM
+        - PMgmt - SAFe
+        - PMgmt - Scrum
+        - SInd - Advertising and Market
+        - SInd - Education and Art
+        - SInd - Entertainment
+        - SInd - Finance
+        - SInd - Health Care
+        - SInd - Laws
+        - SInd - Medicine
+        - SInd - Non-Governmental Organizations
+        - SInd - Public Management
+        - SInd - Science and Research
+        - SInd - Security
+        - SInd - Supply Chain
+        - SInd - Telecom Midia and Technology
+        - Sustain - Carbon Credit
+        - Sustain - ESG
+        - Sustain - GEE
+        - Sustain - GHG Protocol
+        - Sustain - Greenwashing
+        - Sustain - GRI
+        - Sustain - SDG(UN)
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct_
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://moriblo.github.io/ESG_VM_Program/Ambient/)
+      options:
+        - label: I am following this project's Code of Conduct
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+  
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        # User Story
+  
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+          <table>
+            <tr>
+              <td><img src="https://github.com/Avalcorp/standards/blob/main/Img/FReq_1.jpg?raw=true" alt="FReq_1" width="90" height="300"/></td>
+              <td><img src="https://github.com/Avalcorp/standards/blob/main/Img/FReq_2.jpg?raw=true" alt="FReq_2" width="900" height="300"/></td>
+            </tr>
+          </table>
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        ### HOW <Persona?> WANTS <What?> FOR <Why?>
+  
+        </div>
+    
+  - type: textarea
+    id: references
+    attributes:
+      label: Story 
+      description: Please copy and paste any relevant reference.
+      placeholder: "**HOW** <Persona?> **WANTS** <What?> **FOR** <Why?>"
+      
+  - type: dropdown
+    id: Lista_1
+    attributes:
+      label: This Functional Requirement is related with which architecture´s part 
+      multiple: true
+      description: Whitch part of structure this issue impacts
+      options:
+        - Databaset
+        - Colectors
+        - Orchestrators
+        - Broker
+        - The Nest
+        - Consumer
+        - All
+      default: 1
+    validations:
+      required: true
+  
+  - type: markdown
+    attributes:
+      value: |
+        ---
+      
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        # Project Management Part
+  
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+  
+  - type: checkboxes
+    id: terms_1
+    attributes:
+      label: Definition of Ready
+      description: Define when the requirement is ready to go on for code.
+      options:
+        - label: The Epic is corrected linked
+          required: false
+        - label: Story Points were estimated
+          required: false
+        - label: The description was detailed and acceptance definitions were also defined
+          required: false
+        - label: The responsible is already allocated
+          required: false
+  - type: checkboxes
+    id: terms_2
+    attributes:
+      label: Definition of Done
+      description: Define when the requirement is done to go on for final acceptance.
+      options:
+        - label: All the Business Rules were implemented (no check if NA)
+          required: false
+        - label: QA in Compliance with ISO 25010 (Software Product Quality Model) 
+          required: false
+        - label: The applicable Law for Protection Data was considered (no check if NA)
+          required: false
+        - label: The minimal encription mode between browser and server has to be https (no check if NA)
+          required: false
+        - label: No warnings in project building
+          required: false
+        - label: Unit tests implemented and ok
+          required: false
+        - label: Integration tests running ok
+          required: false
+        - label: Documentation updated
+          required: false
+        - label: Code Revised in pair (pull requests done and verified)
+          required: false
+        - label: Tests done in Chrome (no check if NA)
+          required: false
+        - label: Tests done in Edge (no check if NA)
+          required: false
+        - label: Tests done in Safari (no check if NA)
+          required: false
+        - label: Tests done in Firefox (no check if NA)
+          required: false
+        - label: UX Designer gave OK (no check if NA)
+          required: false
+        - label: PO gave OK (no check if NA)
+          required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+      
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        # Acceptance
+  
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---

@@ -1,0 +1,183 @@
+name: Bug Alert
+description: Description of a bug occurrence
+title: "[Bug]: "
+labels: ["Bug"]
+projects: ["ESG Value Mining"]
+assignees:
+-
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact_
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+      
+  - type: markdown
+    attributes:
+      value: |
+        ---
+          
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        ## Problem Description
+  
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+  
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened_
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: With browsers_
+      description: The problem is happening with what browsers listed?
+      multiple: true
+      options:
+        - Android
+        - iOS
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge 
+  - type: textarea
+    id: logs
+    attributes:
+      label: logs_
+      description: Please copy and paste any relevant log output. This will be automatically formatted into shell code, so no need for backticks.
+      render: shell
+  - type: dropdown
+    id: security
+    attributes:
+      label: Security or Privacity_
+      description: Is this problem related with any security or privacity possible incident, vulnerability or non-compliance condition ?
+      multiple: false
+      options:
+        - 'Yes'
+        - 'No'
+        
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        ## Issue Opening Setup
+  
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+  - type: dropdown
+    id: criticality
+    attributes:
+      label: Criticality_
+      description: What is the level of criticality for this issue ?
+      multiple: false
+      options:
+        - Critical
+        - Major
+        - Minor
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill_
+      description: Which kind of skill would be initially necessary ?
+      multiple: false
+      options:
+        - Arch&AI - Authentication Process
+        - Arch&AI - Blockchain
+        - Arch&AI - Brokers
+        - Arch&AI - Cybersecurity
+        - Arch&AI - Deep Learning
+        - Arch&AI - Machine Learning
+        - Arch&AI - Neural Net
+        - Arch&AI - Payment Token
+        - Arch&AI - TOGAF
+        - Arch&AI - Web Scraping
+        - DB - BI
+        - DB - ETL
+        - DB - Hadoop
+        - DB - OLAP
+        - DB - OLTP
+        - DB - Spark
+        - LP - C#
+        - LP - CSS
+        - LP - HTML
+        - LP - Java
+        - LP - JS
+        - LP - Kotlin
+        - LP - Lua
+        - LP - Perl
+        - LP - PHP
+        - LP - Python
+        - LP - R
+        - LP - Ruby
+        - LP - SQL
+        - LP - VBA
+        - OS - Android
+        - OS - Git
+        - OS - iOS
+        - OS - Linux
+        - PMgmt - Change&Doc Mgmt
+        - PMgmt - Kanban
+        - PMgmt - PMP
+        - PMgmt - PRINCE
+        - PMgmt - PRiSM
+        - PMgmt - SAFe
+        - PMgmt - Scrum
+        - SInd - Advertising and Market
+        - SInd - Education and Art
+        - SInd - Entertainment
+        - SInd - Finance
+        - SInd - Health Care
+        - SInd - Laws
+        - SInd - Medicine
+        - SInd - Non-Governmental Organizations
+        - SInd - Public Management
+        - SInd - Science and Research
+        - SInd - Security
+        - SInd - Supply Chain
+        - SInd - Telecom Midia and Technology
+        - Sustain - Carbon Credit
+        - Sustain - ESG
+        - Sustain - GEE
+        - Sustain - GHG Protocol
+        - Sustain - Greenwashing
+        - Sustain - GRI
+        - Sustain - SDG(UN)
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct_
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://moriblo.github.io/ESG_VM_Program/Ambient/)
+      options:
+        - label: I am following this project's Code of Conduct
+          required: true
