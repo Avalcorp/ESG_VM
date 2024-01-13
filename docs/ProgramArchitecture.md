@@ -41,8 +41,8 @@
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="500px" align="center">
-      <ul style="list-style-type: '*'; text-align: left;">
-          🛒  [Consumers]
+      <ul style="list-style-type: '*'; text-align: center;">
+          <li>🛒  [Consumers]</li>
           <li>🚦  [Broker]</li>
           <li>👮  [Orchestrators]</li>
           <li>🎣  [Colectors]</li>
