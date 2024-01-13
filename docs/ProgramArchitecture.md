@@ -35,11 +35,11 @@
   
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-    <td width="500px" align="center">
+    <td width="500px" align="left">
       <div align="center">
           <p>🛒  [Consumers] </p>
       </di>
-      <div align="left">
+      <div align="center">
           <p>🚦  [Broker] </p>
       </di>
       <div align="left">
