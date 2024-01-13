@@ -61,8 +61,8 @@ body:
       multiple: true
       description: Whitch part of structure this issue impacts
       options:
-        - Databaset
-        - Colectors
+        - Databasets
+        - Collectors
         - Orchestrators
         - Broker
         - The Nest
