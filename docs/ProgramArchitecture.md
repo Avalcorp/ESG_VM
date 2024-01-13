@@ -41,8 +41,8 @@
   <tr>
     <td width="990" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="10" align="center">
-      🛒 <p>[Consumers]</p>
-      🚦 <p>[Broker]</p>
+      🛒 <p><b>[Consumers]</b></p>
+      🚦 <p><b>Broker]</b></p>
       👮 <p>[Orchestrators]</p>
       🎣 <p>[Colectors]</p>
       🗄️ <p>[Datasets]</p>
