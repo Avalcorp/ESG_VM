@@ -12,7 +12,6 @@
     </tr>
   </table>
 </div>
----
 <div>
   <table>
     <tr>
@@ -25,7 +24,6 @@
     </tr>
   </table>
 </div>
----
 <div align="center">
   <table>
       <tr>
