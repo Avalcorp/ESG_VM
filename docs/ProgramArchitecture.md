@@ -35,7 +35,7 @@
   
   <tr>
       <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-      <td width="500px" align="center">
+      <td width="500px" align="left">
           <div style="display: flex; justify-content: left;">
               <div style="text-align: left;">
                   <p>🛒  [Consumers] </p>
