@@ -41,11 +41,11 @@
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="500px" align="center">
-      ### 🛒  [Consumers]
-      ###🚦  [Broker]
-      ###👮  [Orchestrators]
-      ###🎣  [Colectors]
-      ###🗄️  [Datasets]
+      <p> 🛒  [Consumers] </p>
+      <p>🚦  [Broker] </p>
+      <p>👮  [Orchestrators] </p>
+      <p>🎣  [Colectors] </p>
+      <p>🗄️  [Datasets] </p>
     </td>
   </tr>
   
