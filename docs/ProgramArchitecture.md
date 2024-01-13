@@ -41,7 +41,7 @@
   <tr>
     <td width="950px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="50px" align="center">
-      <p><a 🛒>  [Consumers]></a></p>
+      <p><a 🛒></a>  [Consumers]</p>
       <p><a 🚦>  [Broker]></a></p>
       <p><a 👮>  [Orchestrators]></a></p>
       <p><a 🎣>  [Colectors]></a></p>
