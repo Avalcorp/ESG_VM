@@ -12,5 +12,9 @@
   </tr>
 </table>
 <table>
-  <td><img src="GeneralDiagram.html" alt="GeneralDiagram" width="300"/></td>    
+  <tr>
+    <td>
+      <img src="GeneralDiagram.html" alt="GeneralDiagram" width="300">
+    </td>
+  </tr>
 </table>
