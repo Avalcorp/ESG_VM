@@ -32,9 +32,18 @@
     <td width="500px" align="center"><a><b>DRAWING</b></a></td>
     <td width="500px" align="center"><a><b>REPOSITORIES</b></a></td>
   </tr>
+  
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-    <td width="500px" align="center"><p>🛒  [Consumers] </p><p>🚦  [Broker] </p><p>👮  [Orchestrators] </p><p>🎣  [Colectors]</p><p>🗄️  [Datasets]</p></td>
-  </tr>
+    <td width="500px" align="center">
+        <div style="text-align: left; display: inline-block;">
+            <p>🛒  [Consumers] </p>
+            <p>🚦  [Broker] </p>
+            <p>👮  [Orchestrators] </p>
+            <p>🎣  [Colectors]</p>
+            <p>🗄️  [Datasets]</p>
+        </div>
+    </td>
+  <tr>
 </table>
 
