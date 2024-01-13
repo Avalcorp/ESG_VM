@@ -41,7 +41,7 @@
   <tr>
     <td width="500px" align="center">
       <ul style="list-style-type: '*'; text-align: left;">
-          <li>🛒  [Consumers]</li>
+          🛒  [Consumers]
           <li>🚦  [Broker]</li>
           <li>👮  [Orchestrators]</li>
           <li>🎣  [Colectors]</li>
