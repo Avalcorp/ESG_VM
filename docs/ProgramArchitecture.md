@@ -30,7 +30,7 @@
           <td width="500px" align="center"><a>REPOSITORIES</a></td>
         <tr>
         <tr>
-          <td width="500px" align="center"><a img src="Architecture.svg" alt="Architecture"></a></td>
+          <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
           <td width="500px" align="center"><a 🎣  [Colectors]()<br><br>🗄️  [Datasets]()<br><br>👮  [Orchestrators]()></a></td>
         </tr>
     </table>
