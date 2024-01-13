@@ -11,10 +11,12 @@
     <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="GeneralDiagram.svg" alt="GeneralDiagram" width="300"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="GeneralDiagram.svg" alt="GeneralDiagram" width="1000"/>
+      </td>
+    </tr>
+  </table>
+</div>
