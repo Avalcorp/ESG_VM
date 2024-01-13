@@ -5,7 +5,7 @@
   <tr>
     <td><img src="OWL.jpg" alt="ESG" width="300"/></td>
     <td>
-      The architecture defines how the program will be divided. The parts of the program are: datasets, colectors and orchestrators. The name given         for this set of projects is: "The Nest".<br>
+      The architecture defines how the program will be divided. The parts of the program are: datasets, colectors, broker and orchestrators. The name given         for this set of projects is: "The Nest".<br>
     </td>
     <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
