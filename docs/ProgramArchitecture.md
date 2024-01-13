@@ -34,18 +34,16 @@
   </tr>
   
   <tr>
-      <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-      <td width="500px" align="left">
-          <div style="display: flex; justify-content: center;">
-              <div style="text-align: center;">
-                  <p>🛒  [Consumers] </p>
-                  <p>🚦  [Broker] </p>
-                  <p>👮  [Orchestrators] </p>
-                  <p>🎣  [Colectors]</p>
-                  <p>🗄️  [Datasets]</p>
-              </div>
-          </div>
-      </td>
+    <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
+    <td width="500px" align="left">
+      <div style="text-align: center;">
+          <p>🛒  [Consumers] </p>
+          <p>🚦  [Broker] </p>
+          <p>👮  [Orchestrators] </p>
+          <p>🎣  [Colectors]</p>
+          <p>🗄️  [Datasets]</p>
+      </div>
+    </td>
   <tr>
 
 </table>
