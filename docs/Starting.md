@@ -14,5 +14,6 @@
 <div align="center">
   <table>
       <td width="2000" align="center"><img src="GeneralDiagram.html" alt="GeneralDiagram"></td>
+      <a img src="https://github.com/Avalcorp/ESG_VM/blob/gh-pages/docs/GeneralDiagram.html"></a>
   </table>
 </div>
