@@ -26,8 +26,12 @@
 <div align="center">
     <table>
         <tr>
-          <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture>Starting</a></td>
-          <td width="500px" align="center"><🎣  [Colectors]()<br><br>🗄️  [Datasets]()<br><br>👮  [Orchestrators]()></td>
+          <td width="500px" align="center"><a>DRAWING</a></td>
+          <td width="500px" align="center"><a>REPOSITORIES</a></td>
+        <tr>
+        <tr>
+          <td width="500px" align="center"><a img src="Architecture.svg" alt="Architecture">Starting</a></td>
+          <td width="500px" align="center"><a 🎣  [Colectors]()<br><br>🗄️  [Datasets]()<br><br>👮  [Orchestrators]()></a></td>
         </tr>
     </table>
   </div>
