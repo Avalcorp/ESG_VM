@@ -13,6 +13,6 @@
 </table>
 <div align="center">
   <table>
-      <td width="2000" align="center"><img src="GeneralDiagram.svg" alt="GeneralDiagram"></td>
+      <td width="2000" align="center"><img src="GeneralDiagram.html" alt="GeneralDiagram"></td>
   </table>
 </div>
