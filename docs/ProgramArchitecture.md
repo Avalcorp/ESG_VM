@@ -3,11 +3,15 @@
 
 <table>
   <tr>
-    <td><img src="OWL.jpg" alt="ESG" width="300"/></td>
+    <td>
+      <img src="OWL.jpg" alt="ESG" width="300"/>
+    </td>
     <td>
       The architecture defines how the program will be divided. The parts of the program are: datasets, colectors, broker and orchestrators. The name given         for this set of projects is: "The Nest".<br>
     </td>
-    <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
+    <td>
+      <img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/>
+    </td>
   </tr>
 </table>
 
@@ -30,7 +34,7 @@
   </tr>
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-    <td width="500px" align="center"><a>🛒  [Consumers]<br><br> 🚦  [Broker]<br><br> 👮  [Orchestrators]<br><br> 🎣  [Colectors]<br><br>🗄️  [Datasets]</a></td>
+    <td width="500px" align="center"><a>🛒  [Consumers] 🚦  [Broker] 👮  [Orchestrators] 🎣  [Colectors]🗄️  [Datasets]</a></td>
   </tr>
 </table>
 
