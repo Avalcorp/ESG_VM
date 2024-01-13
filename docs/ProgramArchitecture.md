@@ -40,12 +40,12 @@
   
   <tr>
     <td width="990" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-    <td width="10" align="left">
-      🛒 [Consumers]</p>
-      🚦 [Broker]</p>
-      👮 [Orchestrators]</p>
-      🎣 [Colectors]</p>
-      🗄️ [Datasets]</p>
+    <td width="10" align="center">
+      🛒 <p>[Consumers]</p>
+      🚦 <p>[Broker]</p>
+      👮 <p>[Orchestrators]</p>
+      🎣 <p>[Colectors]</p>
+      🗄️ <p>[Datasets]</p>
     </td>
   </tr>
   
