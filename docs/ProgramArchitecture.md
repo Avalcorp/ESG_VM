@@ -41,11 +41,11 @@
   <tr>
     <td width="990" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="10" align="center">
-      🛒 <b>[Consumers]</b><br>
-      🚦 <b>[Broker]</b><br>
-      👮 <b>[Orchestrators]</b><br>
-      🎣 <b>[Colectors]</b><br>
-      🗄️ <b>[Datasets]</b><br>
+      🛒 <b>[Consumers]</b><br><br><br>
+      🚦 <b>[Broker]</b><br><br><br>
+      👮 <b>[Orchestrators]</b><br><br><br>
+      🎣 <b>[Colectors]</b><br><br><br>
+      🗄️ <b>[Datasets]</b><br><br><br>
     </td>
   </tr>
   
