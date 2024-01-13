@@ -41,13 +41,15 @@
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="500px" align="center">
-      <ul style="list-style-type: '*'; text-align: left;">
-        <li>🛒  [Consumers]</li>
-        <li>🚦  [Broker]</li>
-        <li>👮  [Orchestrators]</li>
-        <li>🎣  [Colectors]</li>
-        <li>🗄️  [Datasets]</li>
-      </ul>
+      <div>
+        <ul style="list-style-type: '*'; text-align: left;">
+          <li>🛒  [Consumers]</li>
+          <li>🚦  [Broker]</li>
+          <li>👮  [Orchestrators]</li>
+          <li>🎣  [Colectors]</li>
+          <li>🗄️  [Datasets]</li>
+        </ul>
+      </div>
     </td>
   </tr>
   
