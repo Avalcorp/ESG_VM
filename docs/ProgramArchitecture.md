@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-    <td width="500px" align="center">🛒  [Consumers]<br><br> 🚦  [Broker]<br><br> 👮  [Orchestrators]<br><br> 🎣  [Colectors]<br><br>🗄️  [Datasets]</td>
+    <td width="500px" align="center"><a>🛒  [Consumers]<br><br> 🚦  [Broker]<br><br> 👮  [Orchestrators]<br><br> 🎣  [Colectors]<br><br>🗄️  [Datasets]</a></td>
   </tr>
 </table>
 
