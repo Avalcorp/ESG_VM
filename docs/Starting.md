@@ -12,5 +12,5 @@
   </tr>
 </table>
 <div>
-  <td width="500" align="center"><img src="GeneralDiagram.svg" alt="Architecture"></td>
+  <td width="500" align="center"><img src="GeneralDiagram.svg" alt="GeneralDiagram"></td>
 </div>
