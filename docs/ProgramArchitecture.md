@@ -12,7 +12,6 @@
     </tr>
   </table>
 
-<div>
   <table>
     <tr>
       <td>
@@ -25,7 +24,6 @@
       </td>
     </tr>
   </table>
-</div>
 
 <div align="center">
   <table>
