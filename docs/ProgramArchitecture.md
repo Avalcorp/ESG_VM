@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td>
-        <img src="Ninho.jpg" alt="ESG" width="300"/>
+        <img src="Ninho.jpg" alt="ESG" width="300">
       </td>
       <td>
         <b>The Nest [TN]</b>
