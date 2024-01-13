@@ -38,10 +38,17 @@
     <td width="500px" align="center">
       <div align="left">
           <p>🛒  [Consumers] </p>
+      </di>
       <div align="left">
           <p>🚦  [Broker] </p>
+      </di>
+      <div align="left">
           <p>👮  [Orchestrators] </p>
+      </div>
+      <div align="left">
           <p>🎣  [Colectors]</p>
+      </div>
+      <div align="left">
           <p>🗄️  [Datasets]</p>
       </div>
     </td>
