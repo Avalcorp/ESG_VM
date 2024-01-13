@@ -40,7 +40,7 @@
   
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-    <td width="500px" align="left">
+    <td width="500px" align="center">
       <p>🛒  [Consumers] </p>
       <p>🚦  [Broker] </p>
       <p>👮  [Orchestrators] </p>
