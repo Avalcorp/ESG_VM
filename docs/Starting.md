@@ -11,8 +11,8 @@
     <td><img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/></td>
   </tr>
 </table>
-<table>
-  <div align="center">
-    <td width="800" align="center"><img src="GeneralDiagram.svg" alt="GeneralDiagram"></td>
-  </div>
-</table>
+<div align="center">
+  <table>
+      <td width="800" align="center"><img src="GeneralDiagram.svg" alt="GeneralDiagram"></td>
+  </table>
+</div>
