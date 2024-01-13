@@ -39,8 +39,8 @@
   </tr>
   
   <tr>
-    <td width="990px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-    <td width="10px" align="left">
+    <td width="990" align="center"><img src="Architecture.svg" alt="Architecture"></td>
+    <td width="10" align="left">
       🛒 [Consumers]</p>
       🚦 [Broker]</p>
       👮 [Orchestrators]</p>
