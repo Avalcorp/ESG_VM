@@ -27,7 +27,7 @@
   <tr>
     <td width="500px" align="center"><a><b>DRAWING</b></a></td>
     <td width="500px" align="center"><a><b>REPOSITORIES</b></a></td>
-  <tr>
+  </tr>
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="500px" align="center">🛒  [Consumers]<br><br> 🚦  [Broker]<br><br> 👮  [Orchestrators]<br><br> 🎣  [Colectors]<br><br>🗄️  [Datasets]     </td>
