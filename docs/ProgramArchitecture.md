@@ -36,7 +36,7 @@
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="500px" align="center">
-      <div align="left">
+      <div align="center">
           <p>🛒  [Consumers] </p>
       </di>
       <div align="left">
