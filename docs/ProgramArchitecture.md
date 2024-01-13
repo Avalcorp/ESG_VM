@@ -2,6 +2,7 @@
 [ESG_VM] - [ESG_VM_PGM] - <b>[ESG_VM_PGM_Architecture]</b>
 
 <table>
+  
   <tr>
     <td>
       <img src="OWL.jpg" alt="ESG" width="300"/>
@@ -13,9 +14,11 @@
       <img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/>
     </td>
   </tr>
+  
 </table>
 
 <table>
+  
   <tr>
     <td>
       <img src="Ninho.jpg" alt="ESG" width="300">
@@ -25,9 +28,11 @@
       The nest is formed by database structure (to assess needs, actions and results), colectors (to capture         and treat the infos), broker           (to route the needs for the correct consumers) and orchestrators (value and broker orchestration).
     </td>
   </tr>
+  
 </table>
 
 <table>
+  
   <tr>
     <td width="500px" align="center"><a><b>DRAWING</b></a></td>
     <td width="500px" align="center"><a><b>REPOSITORIES</b></a></td>
@@ -36,23 +41,13 @@
   <tr>
     <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
     <td width="500px" align="left">
-      <div align="center">
-          <p>🛒  [Consumers] </p>
-      </di>
-      <div align="center">
-          <p>🚦  [Broker] </p>
-      </di>
-      <div align="left">
-          <p>👮  [Orchestrators] </p>
-      </div>
-      <div align="left">
-          <p>🎣  [Colectors]</p>
-      </div>
-      <div align="left">
-          <p>🗄️  [Datasets]</p>
-      </div>
+      <p>🛒  [Consumers] </p>
+      <p>🚦  [Broker] </p>
+      <p>👮  [Orchestrators] </p>
+      <p>🎣  [Colectors]</p>
+      <p>🗄️  [Datasets]</p>
     </td>
   <tr>
-
+    
 </table>
 
