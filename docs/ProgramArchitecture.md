@@ -31,7 +31,7 @@
         <tr>
         <tr>
           <td width="500px" align="center"><img src="Architecture.svg" alt="Architecture"></td>
-          <td width="500px" align="center">🎣  [Colectors]()<br><br>🗄️  [Datasets]()<br><br>👮  [Orchestrators]()</td>
+          <td width="500px" align="center">🎣  [Colectors]<br><br>🗄️  [Datasets]<br><br>👮  [Orchestrators]<br><br>🚦  [Broker]<br><br>🛒  [Consumers]</td>
         </tr>
     </table>
   </div>
