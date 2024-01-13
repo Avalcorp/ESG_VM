@@ -38,6 +38,7 @@
     <td width="500px" align="center">
       <div align="left">
           <p>🛒  [Consumers] </p>
+      <div align="left">
           <p>🚦  [Broker] </p>
           <p>👮  [Orchestrators] </p>
           <p>🎣  [Colectors]</p>
