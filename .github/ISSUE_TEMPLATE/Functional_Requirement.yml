@@ -211,22 +211,34 @@ body:
   - type: checkboxes
     id: terms_1
     attributes:
-      label: Definition of Ready
-      description: Define when the requirement is ready to go on for code.
+      label: DoR_
+      description: Definition of Ready. Define when the requirement is ready to go on for code.
       options:
-        - label: The Feature is corrected linked to the user story
-          required: true
-        - label: Story Points were estimated
+        - label: The user story is already corrected linked to the milestone
           required: true
         - label: The user story has completed described and acceptance definitions were also defined
           required: true
         - label: The assignee is already allocated
           required: true
+        - label: Story Points were estimated
+          required: true
+  - type: dropdown
+    id: Story Points estimation
+    attributes:
+      label: Estimation_
+      description: Estimation for all tasks in the issue
+      multiple: false
+      options:
+        - 1 Sprint
+        - 2 Sprint
+        - 3 Sprint
+        - 4 Sprint
+        - Still in backlog
   - type: checkboxes
     id: terms_2
     attributes:
-      label: Definition of Done
-      description: Define when the requirement is done to go on for final acceptance.
+      label: DoD_
+      description: Definition od Done. Define when the requirement is done to go on for final acceptance.
       options:
         - label: All the Business Rules were implemented (no check if NA)
           required: false
@@ -306,3 +318,12 @@ body:
       label: Story 
       description: Please copy and paste the TASKs IDs (Comments) related to acceptance criteria.
       placeholder: "**GIVEN THAT** <Context?> **WHEN** <Action?> **THEN** <Result?>"
+
+  - type: checkboxes
+    id: acceptance
+    attributes:
+      label: accepted_
+      description: All checks were done and acceptance is completed
+      options:
+        - label: All the acceptance criteria were performed with success
+          required: true
