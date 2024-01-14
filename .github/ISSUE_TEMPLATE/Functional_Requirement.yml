@@ -296,7 +296,7 @@ body:
         Context: Describe the point where the scenario will be starting
         Action: Define the action (or event) that has been realized by usuer in the context
         Result: Define the result expected by the action
-        The User Story has to be used as reference to construct the "Context", "Action" and "Result" for each TASK created to implement the requirements.
+        **The User Story has to be used as reference to construct the "Context", "Action" and "Result" for each TASK created to implement the requirements.**
   
         </div>
     
