@@ -322,7 +322,7 @@ body:
   - type: checkboxes
     id: acceptance
     attributes:
-      label: accepted_
+      label: Accepted_
       description: All checks were done and acceptance is completed
       options:
         - label: All the acceptance criteria were performed with success
