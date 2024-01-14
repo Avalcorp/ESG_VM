@@ -292,7 +292,7 @@ body:
         </div>
     
   - type: textarea
-    id: references
+    id: criteria
     attributes:
       label: Story 
       description: Please copy and paste the TASKS ID (Comments) related to acceptance criteria.
