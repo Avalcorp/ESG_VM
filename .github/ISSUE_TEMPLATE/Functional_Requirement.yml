@@ -227,7 +227,7 @@ body:
     attributes:
       label: Estimation_
       description: Estimation for all tasks in the issue
-      multiple: false
+      multiple: true
       options:
         - 1 Sprint
         - 2 Sprint
