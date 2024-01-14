@@ -280,19 +280,19 @@ body:
 
   - type: markdown
     attributes:
-      value:
-        
-        ## Behavior-driven development
-
+      value: |
+        <div align="left">
+          ## Behavior-driven development
+        </div>
   - type: markdown
     attributes:
       value: |
         <div align="left">
   
-        ### GIVEN THAT <Context?> WHEN <Action?> THEN <Result?>
-        ### Context: Describe the point where the scenario will be starting
-        ### Action: Define the action (or event) that has been realized by usuer in the context
-        ### Result: Define the result expected by the action
+          ### GIVEN THAT <Context?> WHEN <Action?> THEN <Result?>
+          ### Context: Describe the point where the scenario will be starting
+          ### Action: Define the action (or event) that has been realized by usuer in the context
+          ### Result: Define the result expected by the action
   
         </div>
     
