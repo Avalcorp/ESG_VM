@@ -94,7 +94,12 @@ body:
     attributes:
       value: |
         ---
-        
+
+  - type: markdown
+    attributes:
+      value: |
+        **If you are not comfortable filling out the information below, please make sure at least you are familiar with our Code of Conduct**
+  
   - type: dropdown
     id: criticality
     attributes:
