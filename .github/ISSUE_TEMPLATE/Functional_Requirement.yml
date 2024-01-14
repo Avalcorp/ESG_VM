@@ -278,3 +278,22 @@ body:
       value: |
         ---
         ## Behavior-driven development
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        ### GIVEN THAT <Context?> WHEN <Action?> THEN <Result?>
+        ### Context: Describe the point where the scenario will be starting
+        ### Action: Define the action (or event) that has been realized by usuer in the context
+        ### Result: Define the result expected by the action
+  
+        </div>
+    
+  - type: textarea
+    id: references
+    attributes:
+      label: Story 
+      description: Please copy and paste the TASKS ID (Comments) related to acceptance criteria.
+      placeholder: "**GIVEN THAT** <Context?> **WHEN** <Action?> **THEN** <Result?>"
