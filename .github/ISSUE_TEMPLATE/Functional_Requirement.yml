@@ -218,8 +218,6 @@ body:
           required: true
         - label: The user story has completed described and acceptance definitions were also defined
           required: true
-        - label: The assignee is already allocated
-          required: true
         - label: Story Points were estimated
           required: true
   - type: dropdown
