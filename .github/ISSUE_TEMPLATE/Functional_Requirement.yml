@@ -278,7 +278,7 @@ body:
       value: |
         ---
 
-    - type: markdown
+  - type: markdown
     attributes:
       value: |
         <div align="center">
