@@ -223,7 +223,7 @@ body:
         - label: Story Points were estimated
           required: true
   - type: dropdown
-    id: Story Points estimation
+    id: StoryPointsEstimation
     attributes:
       label: Estimation_
       description: Estimation for all tasks in the issue
