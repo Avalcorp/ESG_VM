@@ -270,6 +270,8 @@ body:
           required: false
         - label: PO gave OK (no check if NA)
           required: false
+        - label: DoD OK
+          required: true
 
   - type: markdown
     attributes:
