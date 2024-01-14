@@ -22,6 +22,71 @@ body:
     attributes:
       value: |
         ---
+  
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        # User Story
+  
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+          <table>
+            <tr>
+              <td><img src="https://github.com/Avalcorp/standards/blob/main/Img/FReq_1.jpg?raw=true" alt="FReq_1" width="90" height="300"/></td>
+              <td><img src="https://github.com/Avalcorp/standards/blob/main/Img/FReq_2.jpg?raw=true" alt="FReq_2" width="900" height="300"/></td>
+            </tr>
+          </table>
+        </div>
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+  
+        ### HOW <Persona?> WANTS <What?> FOR <Why?>
+  
+        </div>
+    
+  - type: textarea
+    id: references
+    attributes:
+      label: Story 
+      description: Please copy and paste any relevant reference.
+      placeholder: "**HOW** <Persona?> **WANTS** <What?> **FOR** <Why?>"
+      
+  - type: dropdown
+    id: Lista_1
+    attributes:
+      label: This Functional Requirement is related with which architecture´s part 
+      multiple: true
+      description: Whitch part of structure this issue impacts
+      options:
+        - Databaset
+        - Colectors
+        - Orchestrators
+        - Broker
+        - The Nest
+        - Consumer
+        - All
+      default: 1
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
         
   - type: markdown
     attributes:
@@ -123,71 +188,6 @@ body:
       options:
         - label: I am following this project's Code of Conduct
           required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        ---
-  
-  - type: markdown
-    attributes:
-      value: |
-        <div align="center">
-  
-        # User Story
-  
-        </div>
-
-  - type: markdown
-    attributes:
-      value: |
-        ---
-
-  - type: markdown
-    attributes:
-      value: |
-        <div align="center">
-          <table>
-            <tr>
-              <td><img src="https://github.com/Avalcorp/standards/blob/main/Img/FReq_1.jpg?raw=true" alt="FReq_1" width="90" height="300"/></td>
-              <td><img src="https://github.com/Avalcorp/standards/blob/main/Img/FReq_2.jpg?raw=true" alt="FReq_2" width="900" height="300"/></td>
-            </tr>
-          </table>
-        </div>
-
-  - type: markdown
-    attributes:
-      value: |
-        <div align="center">
-  
-        ### HOW <Persona?> WANTS <What?> FOR <Why?>
-  
-        </div>
-    
-  - type: textarea
-    id: references
-    attributes:
-      label: Story 
-      description: Please copy and paste any relevant reference.
-      placeholder: "**HOW** <Persona?> **WANTS** <What?> **FOR** <Why?>"
-      
-  - type: dropdown
-    id: Lista_1
-    attributes:
-      label: This Functional Requirement is related with which architecture´s part 
-      multiple: true
-      description: Whitch part of structure this issue impacts
-      options:
-        - Databaset
-        - Colectors
-        - Orchestrators
-        - Broker
-        - The Nest
-        - Consumer
-        - All
-      default: 1
-    validations:
-      required: true
   
   - type: markdown
     attributes:
