@@ -75,10 +75,12 @@ body:
     attributes:
       label: Security or Privacity_
       description: Is this problem related with any security or privacity possible incident, vulnerability or non-compliance condition ?
-      multiple: true
+      multiple: false
       options:
         - 'Yes'
         - 'No'
+      validations:
+      required: true
         
   - type: markdown
     attributes:
