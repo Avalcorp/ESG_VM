@@ -214,14 +214,14 @@ body:
       label: Definition of Ready
       description: Define when the requirement is ready to go on for code.
       options:
-        - label: The Epic is corrected linked
-          required: false
+        - label: The Feature is corrected linked to the user story
+          required: true
         - label: Story Points were estimated
-          required: false
-        - label: The description was detailed and acceptance definitions were also defined
-          required: false
-        - label: The responsible is already allocated
-          required: false
+          required: true
+        - label: The user story has completed described and acceptance definitions were also defined
+          required: true
+        - label: The assignee is already allocated
+          required: true
   - type: checkboxes
     id: terms_2
     attributes:
