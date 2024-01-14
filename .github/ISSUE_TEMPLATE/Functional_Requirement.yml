@@ -277,6 +277,11 @@ body:
     attributes:
       value: |
         ---
+
+  - type: markdown
+    attributes:
+      value:
+        
         ## Behavior-driven development
 
   - type: markdown
