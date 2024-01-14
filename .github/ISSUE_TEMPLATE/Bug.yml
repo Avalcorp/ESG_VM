@@ -79,8 +79,6 @@ body:
       options:
         - 'Yes'
         - 'No'
-      validations:
-      required: true
         
   - type: markdown
     attributes:
@@ -111,7 +109,7 @@ body:
     attributes:
       label: Criticality_
       description: What is the level of criticality for this issue ?
-      multiple: true
+      multiple: false
       options:
         - Critical
         - Major
@@ -121,7 +119,7 @@ body:
     attributes:
       label: Skill_
       description: Which kind of skill would be initially necessary ?
-      multiple: true
+      multiple: false
       options:
         - Arch&AI - Authentication Process
         - Arch&AI - Blockchain
