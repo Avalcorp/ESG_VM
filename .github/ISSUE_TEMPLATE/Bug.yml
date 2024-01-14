@@ -75,7 +75,7 @@ body:
     attributes:
       label: Security or Privacity_
       description: Is this problem related with any security or privacity possible incident, vulnerability or non-compliance condition ?
-      multiple: false
+      multiple: true
       options:
         - 'Yes'
         - 'No'
@@ -109,7 +109,7 @@ body:
     attributes:
       label: Criticality_
       description: What is the level of criticality for this issue ?
-      multiple: false
+      multiple: true
       options:
         - Critical
         - Major
@@ -119,7 +119,7 @@ body:
     attributes:
       label: Skill_
       description: Which kind of skill would be initially necessary ?
-      multiple: false
+      multiple: true
       options:
         - Arch&AI - Authentication Process
         - Arch&AI - Blockchain
