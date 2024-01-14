@@ -282,7 +282,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <div align="center">
+        <div align="left">
   
         ### GIVEN THAT <Context?> WHEN <Action?> THEN <Result?>
         ### Context: Describe the point where the scenario will be starting
