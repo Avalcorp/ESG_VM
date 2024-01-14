@@ -283,7 +283,7 @@ body:
       value: |
         <div align="center">
   
-        ### Behavior-driven development<br><br>
+        ## Behavior-driven development<br><br>
   
         </div>
         
@@ -292,7 +292,7 @@ body:
       value: |
         <div align="left">
   
-        ## GIVEN THAT <Context?> WHEN <Action?> THEN <Result?>
+        ### GIVEN THAT <Context?> WHEN <Action?> THEN <Result?>
         Context: Describe the point where the scenario will be starting
         Action: Define the action (or event) that has been realized by usuer in the context
         Result: Define the result expected by the action
