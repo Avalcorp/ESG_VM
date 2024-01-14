@@ -37,6 +37,10 @@ body:
     attributes:
       value: |
         ---
+- type: markdown
+    attributes:
+      value: |
+        **Please, in this part give us the maximum of information about the problem identified**
   
   - type: textarea
     id: problem
