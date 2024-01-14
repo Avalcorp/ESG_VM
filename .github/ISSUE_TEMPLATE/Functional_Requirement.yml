@@ -303,5 +303,5 @@ body:
     id: criteria
     attributes:
       label: Story 
-      description: Please copy and paste the TASKS ID (Comments) related to acceptance criteria.
+      description: Please copy and paste the TASKs IDs (Comments) related to acceptance criteria.
       placeholder: "**GIVEN THAT** <Context?> **WHEN** <Action?> **THEN** <Result?>"
