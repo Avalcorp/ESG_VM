@@ -8,7 +8,7 @@
       <img src="OWL.jpg" alt="ESG" width="300"/>
     </td>
     <td>
-      The architecture defines how the program will be divided. The parts of the program are: datasets, colectors, broker and orchestrators. The name given         for this set of projects is: "The Nest".<br>
+      The architecture defines how the program will be divided. The parts of the program are: datasets, collectors, broker and orchestrators. The name given         for this set of projects is: "The Nest".<br>
     </td>
     <td>
       <img src="VirtuousCycle.png" alt="Virtuous Cycle" width="300"/>
@@ -25,7 +25,7 @@
     </td>
     <td>
       <b>The Nest [TN]</b><br><br>
-      The nest is formed by database structure (to assess needs, actions and results), colectors (to capture         and treat the infos), broker           (to route the needs for the correct consumers) and orchestrators (value and broker orchestration).
+      The nest is formed by database structure (to assess needs, actions and results), collectors (to capture         and treat the infos), broker           (to route the needs for the correct consumers) and orchestrators (value and broker orchestration).
     </td>
   </tr>
   
@@ -45,7 +45,7 @@
       🛒 <b>[Consumers]</b><br><br><br>
       🚦 <b>[Broker]</b><br><br><br>
       👮 <b>[Orchestrators]</b><br><br><br>
-      🎣 <b>[Colectors]</b><br><br><br>
+      🎣 <b>[Collectors]</b><br><br><br>
       🗄️ <b>[Datasets]</b><br><br><br>
     </td>
   </tr>
