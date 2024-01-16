@@ -45,7 +45,7 @@
       🛒 <b>[Consumers]</b><br><br><br>
       🚦 <b>[Broker]</b><br><br><br>
       👮 <b>[Orchestrators]</b><br><br><br>
-      🎣 <b>[Colectors]</b><br><br><br>
+      🎣 <b>[Collectors]</b><br><br><br>
       🗄️ <b>[Datasets]</b><br><br><br>
     </td>
   </tr>
